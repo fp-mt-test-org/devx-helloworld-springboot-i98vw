@@ -1,0 +1,6 @@
+config:
+  host: devx-helloworld-springboot-i98vw
+  namespace: devx-helloworld-springboot-i98vw-service-dev
+  image:
+    name: uswest2fpmt.jfrog.io/devx-helloworld-springboot-i98vw-docker-dev-local/devx-helloworld-springboot-i98vw
+    tag: v0.0.1
